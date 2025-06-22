@@ -94,7 +94,7 @@ const UserPrograms = () => {
                   <div>
                     <CardTitle className="text-xl text-foreground">
                       {program.first_name}
-                      <span className="text-primary">.exe</span>
+                      <span className="text-primary">!</span>
                     </CardTitle>
                     <div className="text-sm text-muted-foreground flex items-center gap-2 mt-1">
                       <Users className="h-4 w-4" />
